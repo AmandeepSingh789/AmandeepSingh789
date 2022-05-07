@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
-<h3 align="center">A student of the programming game.</h3>
+<h3 align="center">A computer science major at UCSC..</h3>
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmandeepSingh789](https://github.com/AmandeepSingh789)
 
-- 💬 Ask me about **any sort of life advice.**
+- 💬 Ask me about **the latest cricket game.**
 
 - 📫 How to reach me **singh.amandeep5665@gmail.com**
 
-- ⚡ Fun fact **I'm also a music producer.**
+-
 
 
 <h3 align="left">Languages and Tools:</h3>
