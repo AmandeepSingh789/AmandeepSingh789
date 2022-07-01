@@ -7,11 +7,12 @@
 
 - 💬 Ask me about **the latest cricket game.**
 
-- 📫 How to reach me **singh.amandeep5665@gmail.com**
 
-<img src="linkedin.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<h2 align="center">🤝 Connect With Me</h2>
+<img href="https://www.linkedin.com/in/amandeep-singh-a56aa5236/"
+     src="linkedin.png"
+     alt="Linked In"
+     width=”21px” />
 
 <h2 align="center">Languages and Tools:</h2>
 
