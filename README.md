@@ -11,7 +11,7 @@
 
 
 <h2 align="center">Languages and Tools:</h3>
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+<img alt=”Linux” src=”https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 
 <h2 align="center">Github Stats:</h3>
