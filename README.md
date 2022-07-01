@@ -11,7 +11,7 @@
 
 
 <h2 align="center">Languages and Tools:</h3>
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
 
 <h2 align="center">Github Stats:</h3>
