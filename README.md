@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **singh.amandeep5665@gmail.com**
 
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/AmandeepSingh789/AmandeepSingh789/main/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 <h2 align="center">Languages and Tools:</h2>
 
