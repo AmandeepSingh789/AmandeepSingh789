@@ -13,7 +13,8 @@
 <img
      src="linkedin.png"
      alt="Linked In"
-     width="30px"
+     width="50px"
+     align="center"
      />
 
 <h2 align="center">Languages and Tools:</h2>
