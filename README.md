@@ -18,8 +18,10 @@
      margin="10px"
      />
      
-     
-<p align="center" >* 💬 If you have any question/feedback, please do not hesitate to reach out to me! </p>
+   
+   
+   
+* 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
 
 <h2 align="center">Languages and Tools:</h2>
 
