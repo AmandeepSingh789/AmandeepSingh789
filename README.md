@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A computer science major at UCSC..</h3>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmandeepSingh789](https://github.com/AmandeepSingh789)
 
