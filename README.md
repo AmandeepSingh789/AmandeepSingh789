@@ -43,6 +43,6 @@
 
 [![Amandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandeepSingh789&show_icons=true&theme=omni)](https://github.com/AmandeepSingh789/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandeepSingh789&layout=compact&theme=omni)](https://github.com/AmandeepSingh789/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandeepSingh789&layout=compact&theme=omni&hide=jupyter-notebook)](https://github.com/AmandeepSingh789/github-readme-stats)
 
 
