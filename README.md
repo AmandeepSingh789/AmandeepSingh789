@@ -1,4 +1,7 @@
-<img src=”Banner.png" alt=”my banner”>
+<img
+     src="Banner.png"
+     alt="banner"
+     />
 
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A computer science major at UCSC..</h3>
