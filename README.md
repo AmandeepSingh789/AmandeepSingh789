@@ -15,7 +15,7 @@
      alt="Linked In"
      width="50px"
      align="center"
-     padding="10px"
+     margin="10px"
      />
      
      
