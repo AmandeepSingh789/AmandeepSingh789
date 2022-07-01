@@ -10,11 +10,12 @@
 - 📫 How to reach me **singh.amandeep5665@gmail.com**
 
 
-<h2 align="center">Languages and Tools:</h3>
-<img alt=”Linux” src=”https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<h2 align="center">Languages and Tools:</h2>
 
 
-<h2 align="center">Github Stats:</h3>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h2 align="center">Github Stats:</h2>
 
 [![Amandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandeepSingh789&show_icons=true&theme=omni)](https://github.com/AmandeepSingh789/github-readme-stats)
 
