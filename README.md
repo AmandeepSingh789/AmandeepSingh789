@@ -9,7 +9,7 @@
 
 
 <h2 align="center">🤝 Connect With Me</h2>
-<a href="https://www.linkedin.com/in/amandeep-singh-a56aa5236/" />
+<a align="center" href="https://www.linkedin.com/in/amandeep-singh-a56aa5236/" />
 <img
      src="linkedin.png"
      alt="Linked In"
