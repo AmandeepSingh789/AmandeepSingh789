@@ -24,7 +24,7 @@
 
 
 
-<h2 align="center">Skills</h2>
+<h2 align="center">🖥 Skills</h2>
 
 <h3 align="left">Languages and Frameworks:</h3>
 
