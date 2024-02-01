@@ -4,13 +4,13 @@
      />
 
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
-<h3 align="center">A computer science major at UCSC..</h3>
+<h3 align="center">A software developer on weekdays and a tech nerd on weekends.</h3>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **ArgoCD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmandeepSingh789](https://github.com/AmandeepSingh789)
 
-- 💬 Ask me about **the latest cricket game.**
+- 💬 Ask me for **a movie recommendation.**
 
 
 <h2 align="center">🤝 Connect With Me</h2>
